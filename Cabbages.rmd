@@ -68,3 +68,5 @@ This graph is showing that the chance would be .000000003405. This is showing th
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Overall the c52 is bigger than the c39. But what is being missed is the c52 median is a way larger than c39. C39 Q3 is smaller than the Q1 of C52. 
